@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EatingTimes</string>
+    <string name="default_time_text">12:00AM</string>
+</resources>
